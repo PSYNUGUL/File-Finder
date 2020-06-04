@@ -1,4 +1,4 @@
-# P07-File-Finder
+# File Finder
 
 `linear array, 디렉토리, iterator interface 도입`
 
